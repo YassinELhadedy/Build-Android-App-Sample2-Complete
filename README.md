@@ -28,7 +28,7 @@ As a User(github users), I want to search for github users and show details.
 
 
 # CI/CD
-ref : Android Continuous Integration using Fastlane and CircleCI 2.0 — Part I
+Ref : Android Continuous Integration using Fastlane and CircleCI 2.0 — Part I
 https://medium.com/pink-room-club/android-continuous-integration-using-fastlane-and-circleci-2-0-part-i-7204e2e7b8b
 
 https://medium.com/pink-room-club/android-continuous-integration-using-fastlane-and-circleci-2-0-part-ii-7f8dd7265659

@@ -26,3 +26,15 @@ As a User(github users), I want to search for github users and show details.
 
 ![alt text](https://lh3.googleusercontent.com/onBxRZTXjOB_UdLG7Q8dOTMzcztxkBKLAhnVpORO8Id6H-zmblWnbDjpU4sbXCh7Qu3YqgMUfAHF_547jFx8k7vJbhpCJn3Coj5ONzCFLlIryIiDu36UY-U38zF4BwNgygQJZHjv2KLpNCtiRLbEshdqADnaJiJKWtU9skokRnAQOZhXlqZwkxhAbmROGaD8XUO4S9q5KhvTh4WNjKw-WfThZmtF91NmbVYhJunBZUq6b2q9UjGsaRD23Yw27D1VTLgV-ih-lKLIuqvPpduPSSc0ZDIvZGAOah_nPSvos3q2KYYoDHzxHiQ0zlf2jWDCvCr8MNvwmM8U-F7SOosy8jFJImalbaX6vU1KHDzEmzdKb64mKo4huu6Q20FlXgZ-sSiWMe5k2gwjo8CQk06sVff6INM68y6BhxKNty3wElRwjH3Sn6mp8C-JuR6vmXSp0sqZJaq8pBKoOoiPW0MYFMyTRBQG3TjdCV_B5OqnbeLhYaZAzoKI4WI954HDK1ejhoaHHJm0SCRtrfzn1BNaJMFnMVX5_IOhs5SLprTsrzHpKhFlIrcGzKwWvFtV6wAzj3DH3GRel-HPKHToCzFBBYomjN06Rg8-ac4zzwCX7P93q46t5c3NfIg27IBp-7oyDCXwlAhAFGMw7p_0nPpBUEzAFDHsNg=w960-h720-no)
 
+
+# CI/CD
+ref : Android Continuous Integration using Fastlane and CircleCI 2.0 — Part I
+![part1](https://medium.com/pink-room-club/android-continuous-integration-using-fastlane-and-circleci-2-0-part-i-7204e2e7b8b)
+
+![part2](https://medium.com/pink-room-club/android-continuous-integration-using-fastlane-and-circleci-2-0-part-ii-7f8dd7265659)
+
+
+![part3](https://medium.com/pink-room-club/android-continuous-integration-using-fastlane-and-circleci-2-0-part-iii-ccdf5b83d8f5)
+
+
+
